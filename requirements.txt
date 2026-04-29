@@ -2,3 +2,6 @@ fastapi
 uvicorn[standard]
 python-multipart
 gunicorn
+python-docx
+PyPDF2
+openai
